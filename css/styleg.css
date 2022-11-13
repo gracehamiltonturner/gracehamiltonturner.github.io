@@ -7,7 +7,7 @@ body {
 }
 
 header, footer {
-  background-color: #e3d8f1;
+  background-color: #5d5f71;
   text-align: left;
 }
 
@@ -84,7 +84,7 @@ img {
 }
 
 .myButton:hover {
-	background-color:#e69708;
+	background-color:#5d5f71;
 }
 
 .myButton:active {
